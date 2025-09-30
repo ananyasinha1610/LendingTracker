@@ -1,7 +1,3 @@
-Perfect — I can help you draft a **README.md** (for GitHub) and a **dashboard description** that showcases your Tableau project in a professional way. Below is a suggested structure you can use:
-
----
-
 # 📊 Bank Loan Portfolio Dashboard
 
 ## 📌 Project Overview
@@ -80,7 +76,12 @@ This dashboard is ideal for:
 * **Risk analysts** → To identify patterns in bad loans.
 * **Students & professionals** → To showcase **data visualization and storytelling skills** using Tableau.
 
----
+<img width="3198" height="1798" alt="image" src="https://github.com/user-attachments/assets/9d1ccd4a-2c60-472b-85cf-18fc868012d2" />
 
-Would you like me to also create a **shorter portfolio-friendly description (3–4 lines)** you can use on **GitHub repo landing page, LinkedIn, or your resume** alongside the Tableau Public link?
+<img width="3198" height="1798" alt="Overview" src="https://github.com/user-attachments/assets/a573eaf7-ed9c-43e3-b472-bb86b8a556d8" />
+
+<img width="3198" height="1798" alt="DETAILS" src="https://github.com/user-attachments/assets/3226ddd2-2e6f-4a6f-88ec-b53e1bc87c66" />
+
+
+
 
