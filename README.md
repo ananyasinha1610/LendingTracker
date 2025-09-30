@@ -1,5 +1,12 @@
 # 📊 Bank Loan Portfolio Dashboard
 
+
+<img width="3198" height="1798" alt="image" src="https://github.com/user-attachments/assets/9d1ccd4a-2c60-472b-85cf-18fc868012d2" />
+
+<img width="3198" height="1798" alt="Overview" src="https://github.com/user-attachments/assets/a573eaf7-ed9c-43e3-b472-bb86b8a556d8" />
+
+<img width="3198" height="1798" alt="DETAILS" src="https://github.com/user-attachments/assets/3226ddd2-2e6f-4a6f-88ec-b53e1bc87c66" />
+
 ## 📌 Project Overview
 
 This project presents an **interactive Tableau dashboard** designed to analyze and monitor a bank’s loan portfolio. The dashboard provides insights into **loan applications, funded amounts, repayment behavior, loan performance, and borrower characteristics**.
@@ -63,7 +70,7 @@ The goal of this dashboard is to enable financial institutions to:
 ## 📄 Files Included
 
 * `Bank_Loan_Dashboard.twbx` → Tableau packaged workbook.
-* `Summary.png`, `Overview.png`, `Details.png` → Static previews of the dashboard.
+* `Summary.png`, `Overview.png`, `Details.png` → Static previews of the dashboard, shown above.
 * `README.md` → Documentation of the project (this file).
 
 ---
@@ -76,11 +83,6 @@ This dashboard is ideal for:
 * **Risk analysts** → To identify patterns in bad loans.
 * **Students & professionals** → To showcase **data visualization and storytelling skills** using Tableau.
 
-<img width="3198" height="1798" alt="image" src="https://github.com/user-attachments/assets/9d1ccd4a-2c60-472b-85cf-18fc868012d2" />
-
-<img width="3198" height="1798" alt="Overview" src="https://github.com/user-attachments/assets/a573eaf7-ed9c-43e3-b472-bb86b8a556d8" />
-
-<img width="3198" height="1798" alt="DETAILS" src="https://github.com/user-attachments/assets/3226ddd2-2e6f-4a6f-88ec-b53e1bc87c66" />
 
 
 
